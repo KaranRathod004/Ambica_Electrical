@@ -1,2 +1,2 @@
 # Ambica_Electricals
-ambica_electrical
+ambica_electricals
