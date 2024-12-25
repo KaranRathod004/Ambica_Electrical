@@ -1,0 +1,136 @@
+
+.container{
+    margin-top: 100px;
+    display: flex;
+}
+
+img{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.header{
+    font-size: 40px;
+    margin-left: 100px;
+    padding-top: 0;
+}
+
+.about{
+    font-size: 25px;
+}
+
+i{
+    color: red;
+}
+
+#loc{
+    display: flex;
+}
+
+i{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+#add{
+    margin-left: 10px;
+    margin-top: 157px;
+    font-size: 25px;
+}
+
+.address{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+iframe{
+    height: 500px;
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+/* 
+.connect{
+    position: relative;
+    display: flex;
+    margin-top: 150px;
+}
+
+#d1{
+    margin-bottom: 50px ;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 25px;
+    display: block;
+}
+
+#contact{
+    margin-left: -140px;
+    display: block;
+}
+
+#d2{
+    margin-top: 500px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+#mail{
+    margin-left: -200px;
+}
+ */
+
+.mob{
+    display: flex;
+    margin-top: 25px;
+}
+
+ .triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 40px solid black;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+p{
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+#rathod{
+    font-size: 25px;
+    margin-left: 120px;
+}
+
+#tel{
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+#mob{
+    
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#shri{
+    font-size: 25px;
+    margin-left: 120px;
+}
+
+.mail{
+    display: flex;
+    margin-top: 25px;
+}
+
+#gmail{
+    font-size: 25px;
+}
+
+a{
+    text-decoration: no;
+}
